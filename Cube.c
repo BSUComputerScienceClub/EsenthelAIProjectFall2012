@@ -8,5 +8,5 @@ Math.compart(Matt,Chris);
 if(Matt>Chris)
 "The world is alright"
 else
-":("
+":(, Hey Chris he got you so good.... Does anyone play MW3????"
 }
